@@ -7,4 +7,5 @@ public class SingleInheritance {
         g.bark();
         g.eat();
     }
+
 }
